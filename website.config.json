@@ -1,13 +1,13 @@
 {
     "en":{
-        "title": "My Portfolio Website",
-        "description": "My Portfolio Website built with React, Next.js, and Tailwind CSS.",
-        "longDescription": "My Portfolio Website built with React, Next.js, and Tailwind CSS."
+        "title": " Ball Collision Game",
+        "description": " A game where we earn points by popping balls",
+        "longDescription": " A game I made to gain more experience in object-oriented programming. Our goal is to earn points by popping balls and get the highest score."
     },
     "tr":{
-        "title": "Benim Portföy Web Sitem",
-        "description": "React, Next.js ve Tailwind CSS ile oluşturduğum Portföy Sitem.",
-        "longDescription": "React, Next.js ve Tailwind CSS ile oluşturduğum Portföy Sitem."
+        "title": "Top Patlatma Oyunu",
+        "description": "Topları patlatarak puan kazandığımız bir oyun",
+        "longDescription": "Nesne tabanlı programlamada daha fazla tecrübe kazanmak için yaptığım bir oyun. Amacımız topları patlatarak puan kazanmak ve en yüksek puanı elde etmek. "
     },
-    "tags":["web"]
+    "tags":["consoleApp","java","game","oop"]
 }
